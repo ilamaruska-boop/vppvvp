@@ -2,8 +2,6 @@
 #profile-update-interval: 6
 #sub-info-color: blue
 #sub-info-text: Белые списки в разработке...
-#sub-info-button-text: Поддержка
-#sub-info-button-link: https://t.me/your_chat
 
 vless://286c1436-bf44-42df-9952-81612a6acb3d@46.21.83.195:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=chrome&pbk=GQp24gkIIQHmjsTSh--0Z9WLW8wceDtsmYOGIEpQEh0&sid=3a8f23eadb0b8b00#RF-1%20(РФ YT,DS🛜)
 
@@ -12,5 +10,6 @@ vless://0660972a-6425-49f3-9062-e627728666b1@139.28.222.212:443?type=tcp&encrypt
 vless://27847b9f-8c50-4d79-afbc-54a52c70da19@144.31.247.81:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=chrome&pbk=AA-Q617kZw80JUDsq8BM9ph-OkfoEOe2H_ba6g7q_ls&sid=69efce6f34b6273d#NL-1%20(Netherlands ВСЁ🛜)
 
 socks://MTkzLjIzMy4yNTQuOToxMDgw#DE-1%20(GermanyS5🛜)
+
 
 
