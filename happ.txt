@@ -1,6 +1,7 @@
 #profile-title: Ila V3,14N
 #profile-update-interval: 6
 
-vless://0660972a-6425-49f3-9062-e627728666b1@139.28.222.212:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=chrome&pbk=z2PxlM2JNHC_H0oZiHVIa468uLextTAgEBoxU7Jrqy0&sid=403593b258520bc0#RF-2%20(🛜)
+vless://0660972a-6425-49f3-9062-e627728666b1@139.28.222.212:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=chrome&pbk=z2PxlM2JNHC_H0oZiHVIa468uLextTAgEBoxU7Jrqy0&sid=403593b258520bc0#RF-1%20(🛜)
 
 vless://27847b9f-8c50-4d79-afbc-54a52c70da19@144.31.247.81:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=chrome&pbk=AA-Q617kZw80JUDsq8BM9ph-OkfoEOe2H_ba6g7q_ls&sid=69efce6f34b6273d#NL-1%20(Netherlands ВСЁ🛜)
+
