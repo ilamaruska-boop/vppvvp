@@ -12,16 +12,3 @@ vless://46932698-9744-45c8-a54d-84b86a4937a5@144.31.247.81:443?security=reality&
 vless://0e8d47bb-86ce-4289-ae87-56019eb398bf@72.56.102.209:443?type=tcp&encryption=none&security=reality&pbk=te0ybXSTq9JN31Jnpi0MF0_CvO1vOKHIUbTrPFY9x2c&fp=chrome&sni=www.microsoft.com&sid=1ea5ea1bba&spx=%2F&flow=xtls-rprx-vision#NL-2
 
 vless://e53d461c-c51a-44f7-9e20-f1a7a2e4ffad@150.241.94.198:449?type=tcp&security=reality&pbk=cMQDTc3W9Ic_ZPYxZB3KpKL8iEt6DXrRsITHAadsylE&fp=chrome&sni=www.microsoft.com&sid=38e33eb7&flow=xtls-rprx-vision#DE-1
-
-vless://e53d461c-c51a-44f7-9e20-f1a7a2e4ffad@150.241.94.198:443?type=tcp&security=reality&pbk=cMQDTc3W9Ic_ZPYxZB3KpKL8iEt6DXrRsITHAadsylE&fp=chrome&sni=sso.passport.yandex.ru&sid=2eadfa64&flow=xtls-rprx-vision#Обход-1
-
-vless://e53d461c-c51a-44f7-9e20-f1a7a2e4ffad@150.241.94.198:444?type=tcp&security=reality&pbk=cMQDTc3W9Ic_ZPYxZB3KpKL8iEt6DXrRsITHAadsylE&fp=chrome&sni=sun6-22.userapi.com&sid=634fcad5&flow=xtls-rprx-vision#Обход-2
-
-vless://e53d461c-c51a-44f7-9e20-f1a7a2e4ffad@150.241.94.198:445?type=tcp&security=reality&pbk=cMQDTc3W9Ic_ZPYxZB3KpKL8iEt6DXrRsITHAadsylE&fp=chrome&sni=vk.com&sid=7c635bad&flow=xtls-rprx-vision#Обход-3
-
-vless://e53d461c-c51a-44f7-9e20-f1a7a2e4ffad@150.241.94.198:446?type=tcp&security=reality&pbk=cMQDTc3W9Ic_ZPYxZB3KpKL8iEt6DXrRsITHAadsylE&fp=chrome&sni=www.wildberries.ru&sid=2c1f7ff9&flow=xtls-rprx-vision#Обход-4
-
-vless://e53d461c-c51a-44f7-9e20-f1a7a2e4ffad@150.241.94.198:447?type=tcp&security=reality&pbk=cMQDTc3W9Ic_ZPYxZB3KpKL8iEt6DXrRsITHAadsylE&fp=chrome&sni=api-maps.yandex.ru&sid=eb4076f9&flow=xtls-rprx-vision#Обход-5
-
-vless://e53d461c-c51a-44f7-9e20-f1a7a2e4ffad@150.241.94.198:448?type=tcp&security=reality&pbk=cMQDTc3W9Ic_ZPYxZB3KpKL8iEt6DXrRsITHAadsylE&fp=chrome&sni=ozon.ru&sid=8ec5719c&flow=xtls-rprx-vision#Обход-6
-
