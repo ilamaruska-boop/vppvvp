@@ -5,10 +5,9 @@ vless://0660972a-6425-49f3-9062-e627728666b1@139.28.222.212:443?type=tcp&encrypt
 
 vless://cf5b005f-8833-4b47-b938-37368407d158@144.31.71.128:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=vk.com&fp=chrome&pbk=imeawm6u_A8QHcCZe9D1ceXRthpEMDOWt0TTnHIMRTQ&sid=8cf6244f30a11c9a&spx=#FI
 
-vmess://eyJhZGQiOiAiMTQ0LjMxLjI0Ny44MSIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICIwNDA4YjI4Yy0wMzY2LTQ4Y2EtODBmNi0xZDhjYWM5NzUzYjIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogNDQ1LCAicHMiOiAiXHVkODNkXHVkZTgwIE1hcnogKE5lZGVybGFuZHMpIFtWTWVzcyAtIHRjcF0iLCAic2N5IjogImF1dG8iLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
-
 trojan://qJeCqqfP2RlKXIVdU8prew@144.31.247.81:444?security=none&type=tcp&headerType=&path=&host=#NL
 
 vless://46932698-9744-45c8-a54d-84b86a4937a5@144.31.247.81:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=github.com&fp=chrome&pbk=m3OQWSwpcT1MS-VJ8hzOPQ-IpdHuvhdr0SnUCgooMTY&sid=55cc163fdff26311#NL
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprdnlhcTJJQ3JyZGRhOHdnMU9wSmxn@144.31.247.81:1080#NL
+
