@@ -1,10 +1,10 @@
 #profile-title: Free V3,14N
 #profile-update-interval: 1
 #subscription-userinfo: Если перестало работать нажмите ↻.
+#announce: Если перестало работать нажмите ↻.
 
 vless://0e8d47bb-86ce-4289-ae87-56019eb398bf@72.56.102.209:443?type=tcp&encryption=none&security=reality&pbk=te0ybXSTq9JN31Jnpi0MF0_CvO1vOKHIUbTrPFY9x2c&fp=chrome&sni=www.microsoft.com&sid=1ea5ea1bba&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды
 
 vless://e53d461c-c51a-44f7-9e20-f1a7a2e4ffad@150.241.94.198:449?type=tcp&security=reality&pbk=cMQDTc3W9Ic_ZPYxZB3KpKL8iEt6DXrRsITHAadsylE&fp=chrome&sni=www.microsoft.com&sid=38e33eb7&flow=xtls-rprx-vision#🇩🇪 Германия
 
 vless://e53d461c-c51a-44f7-9e20-f1a7a2e4ffad@150.241.94.198:443?type=tcp&security=reality&pbk=cMQDTc3W9Ic_ZPYxZB3KpKL8iEt6DXrRsITHAadsylE&fp=chrome&sni=sso.passport.yandex.ru&sid=2eadfa64&flow=xtls-rprx-vision#🇷🇺 Обход белых списков
-
