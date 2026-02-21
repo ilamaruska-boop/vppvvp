@@ -5,6 +5,10 @@
 #profile-web-page-url: https://t.me/+jDBlUXutT9k3MGY6
 #announce: base64:0JXRgdC70Lgg0L/QtdGA0LXRgdGC0LDQu9C+INGA0LDQsdC+0YLQsNGC0Ywg0L3QsNC20LzQuNGC0LUg4oa7Lg==
 #providerid w76qu5XL
+#new-url happ://crypt5/xqjpwUYdUHUSDOES2x153XQyEqtHCV4lrv0VmJe4HZPwF/9JnGKIO1x3LGQuN4cF7UkYNHGrdKULQ/nt0jc483RLDz2DPR55yNXEznHvWYmL3QShHcwxaxr3ZVGmc5zs/DLP8xW/vAQZ5mdHKZWwqJC9up1T+wpHvk9KoS2r==PgUOyhEKvXZRIAD0IpZwKrUC/BSZ6xVNgZtqWeAQGNSYIfHmpoeyVGF6Hy3hm3r25/23kYAow3GlvJDj0vjXZs5G3MtIk82AXBbBMGKuAvbqvYdhMZTRj8YP7zn0iBHtFhzHu5r62z3TL+5FoB0YWaPBbDXreAM90xcOegc1CHOptZ/gtstzDYVeZOx/jMeJ7bi7Mxg4Rj80L0f30x15SfrYG2LQS9DmbeISa14cU9v3MCwFYxIXnbcf1QKli/6oWoZyUuPqVF5BaP8bilJm3nnQ84O2QMGcd6DHIO/oRmbd/JbsbMZT0ji5YLcTZgDrTrhyXf14WNOFbnZnrBsm8JRTtY9So3u5+O7kwOjY3OIPnYNYZ+pizBvU4zQTtPMSA33D9QvbjAiMblDgTUWZvM586hw/VFrwUKolY4mviXtEcL9PtBPK+H8GJ1tpuhsaFVcqrsx9qazt4MO67zwfDaJKBpnt86Ghqc5v9HcVylZZJA+kZVS17ZgSoFusiT67+u/9X+RIIeDqJvxrdpcuOUsbZiGo/I6513s5XINCX58qgE6tYURgG33UrrC7KUwaXZrJ207n+7RzHWYAEYP5zw3vMerBdIYuI/WkRjsbbXabdlh/dbD8jwwp8AUCLqhQQpp/Ig+Akvnm27ZmJziomFx0QnU8U1JAYWI2uuupJio=H7zacm
+#hide-settings: 1
+#ping-type tcp
+#color-profile: {"backgroundGradientRotationAngle":37.1,"serverRowBackgroundColor":"#21003D67","subsHeaderColor":"#42296DFF","profileWebPageIconColor":"#A2B8FFFF","selectedServerRowColor":"#3E2F62B5","disclosureSubHeaderTextColor":"#C1C2E2FF","buttonTextColor":"#FFFFFFFF","buttonTimerColor":"#FFFFFFFF","subscriptionInfoBackgroundColor":"#21003CFF","backgroundColors":["#3D2A7DFF","#6557BAFF","#9377FF7F"],"disclosureHeaderTextColor":"#FFFFFFFF","backgroundGradientColorIntensity":1,"additionalOptionsButtonColor":"#FFFFFFFF","buttonImageType":"light","serverRowSubTitleTextColor":"#C1C2E2FF","supportIconColor":"#FFFFFFFF","topBarButtonsColor":"#FFFFFFFF","subscriptionTrafficBackgroundColor":"#533EA7FF","subHeaderButtonColor":"#FFFFFFFF","buttonColor":"#9377FFFF","powerIconColor":"#3D2A7DFF","subscriptionInfoTextColor":"#FFFFFFFF","serverRowTitleTextColor":"#FFFFFFFF","backgroundImageType":"system","elipseColors":["#00B460FF","#CF72FFE0","#FFDD00FF"],"serverRowChevronColor":"#FFFFFFFF"}
 
 vless://0e8d47bb-86ce-4289-ae87-56019eb398bf@72.56.102.209:443?type=tcp&encryption=none&security=reality&pbk=te0ybXSTq9JN31Jnpi0MF0_CvO1vOKHIUbTrPFY9x2c&fp=chrome&sni=www.microsoft.com&sid=1ea5ea1bba&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды
 
@@ -17,6 +21,7 @@ vless://e53d461c-c51a-44f7-9e20-f1a7a2e4ffad@150.241.94.198:443?type=tcp&securit
 socks://MnpYRFd2OmdlaFo0VA==@138.219.122.22:9050#🇨🇦 Канада
 
 socks://Sm5zbXVuOlVXRmdHWA==@212.102.145.112:9817#🇪🇪 Эстония
+
 
 
 
