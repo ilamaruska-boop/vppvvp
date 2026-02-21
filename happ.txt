@@ -13,5 +13,3 @@ vless://e53d461c-c51a-44f7-9e20-f1a7a2e4ffad@150.241.94.198:443?type=tcp&securit
 socks://MnpYRFd2OmdlaFo0VA==@138.219.122.22:9050#🇨🇦 Канада
 
 socks://Sm5zbXVuOlVXRmdHWA==@212.102.145.112:9817#🇪🇪 Эстония
-
-socks://172.86.92.68:31337#🇩🇪 Германия
