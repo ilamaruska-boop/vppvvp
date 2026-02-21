@@ -9,3 +9,7 @@ vless://0e8d47bb-86ce-4289-ae87-56019eb398bf@72.56.102.209:443?type=tcp&encrypti
 vless://8b521760-4745-4661-854f-8ca8ccda0b18@150.241.94.199:443?type=tcp&security=reality&pbk=k33AvlvjGiCInPANfg19QPRSl7RPu2-U0Obji8DG4H4&fp=chrome&sni=sso.passport.yandex.ru&sid=e6d28736&flow=xtls-rprx-vision#🇺🇸 США
 
 vless://e53d461c-c51a-44f7-9e20-f1a7a2e4ffad@150.241.94.198:443?type=tcp&security=reality&pbk=cMQDTc3W9Ic_ZPYxZB3KpKL8iEt6DXrRsITHAadsylE&fp=chrome&sni=sso.passport.yandex.ru&sid=2eadfa64&flow=xtls-rprx-vision#🇺🇸 США #2
+
+socks://MnpYRFd2OmdlaFo0VA==@138.219.122.22:9050#🇨🇦 Канада
+
+socks://Sm5zbXVuOlVXRmdHWA==@212.102.145.112:9817#🇪🇪 Эстония 
