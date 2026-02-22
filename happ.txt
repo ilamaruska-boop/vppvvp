@@ -26,8 +26,7 @@ vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?type=ws&security=
 
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#🇮🇳 Индия
 
-trojan://4Jt6CN%2321.rzQjTEUeDHM@217.170.199.80:21363/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#🇳🇴 Норвегия
-
 socks://MnpYRFd2OmdlaFo0VA==@138.219.122.22:9050#🇨🇦 Канада
 
 socks://Sm5zbXVuOlVXRmdHWA==@212.102.145.112:9817#🇪🇪 Эстония
+
