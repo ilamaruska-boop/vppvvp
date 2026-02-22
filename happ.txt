@@ -29,5 +29,3 @@ ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146
 socks://MnpYRFd2OmdlaFo0VA==@138.219.122.22:9050#🇨🇦 Канада
 
 socks://Sm5zbXVuOlVXRmdHWA==@212.102.145.112:9817#🇪🇪 Эстония
-
-
