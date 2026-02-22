@@ -18,8 +18,8 @@ vless://8b521760-4745-4661-854f-8ca8ccda0b18@150.241.94.199:443?type=tcp&securit
 
 vless://e53d461c-c51a-44f7-9e20-f1a7a2e4ffad@150.241.94.198:443?type=tcp&security=reality&pbk=cMQDTc3W9Ic_ZPYxZB3KpKL8iEt6DXrRsITHAadsylE&fp=chrome&sni=sso.passport.yandex.ru&sid=2eadfa64&flow=xtls-rprx-vision#🇺🇸 США #2
 
+vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&encryption=none&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=9917d2350096#🇸🇮 Словения
+
 socks://MnpYRFd2OmdlaFo0VA==@138.219.122.22:9050#🇨🇦 Канада
 
 socks://Sm5zbXVuOlVXRmdHWA==@212.102.145.112:9817#🇪🇪 Эстония
-
-vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&encryption=none&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=9917d2350096#🇸🇮 Словения
