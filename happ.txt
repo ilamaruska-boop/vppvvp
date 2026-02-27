@@ -7,9 +7,15 @@
 
 vless://0e8d47bb-86ce-4289-ae87-56019eb398bf@72.56.102.209:443?type=tcp&encryption=none&security=reality&pbk=te0ybXSTq9JN31Jnpi0MF0_CvO1vOKHIUbTrPFY9x2c&fp=chrome&sni=www.microsoft.com&sid=1ea5ea1bba&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды
 
-vless://347d2ca0-d3a8-4496-aeb8-bab2c8ff5294@193.104.33.94:443?security=reality&type=xhttp&encryption=none&sni=ozon.ru&fp=firefox&pbk=anIECfJVEFOTJP8sh9rPjiaF_CBGSahrK8hld893bnM&sid=743a39d087753485#🇳🇱 Нидерланды №2
+vless://6f89544f-a68a-49fa-bc5c-c16daf7fe176@193.58.121.232:449?type=tcp&security=reality&pbk=O_sU0mEal3uMKNI9AHLNniiDlNZ3OJyINH9F6EZUGWU&fp=chrome&sni=www.microsoft.com&sid=7d6a79af&flow=xtls-rprx-vision#🇩🇪 Германия 1
 
-vless://8b521760-4745-4661-854f-8ca8ccda0b18@150.241.94.199:443?type=tcp&security=reality&pbk=k33AvlvjGiCInPANfg19QPRSl7RPu2-U0Obji8DG4H4&fp=chrome&sni=sso.passport.yandex.ru&sid=e6d28736&flow=xtls-rprx-vision#🇺🇸 США
+vless://6f89544f-a68a-49fa-bc5c-c16daf7fe176@193.58.121.232:443?type=tcp&security=reality&pbk=O_sU0mEal3uMKNI9AHLNniiDlNZ3OJyINH9F6EZUGWU&fp=chrome&sni=sso.passport.yandex.ru&sid=9a5a01af&flow=xtls-rprx-vision#🇩🇪 Германия 2
+
+vless://54ef6124-3a61-4a44-9901-78fadc6c59d9@144.31.17.116:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&fp=chrome&security=reality&pbk=iAWzXE2vetDOtZePY7-Y64p5AY7h35eE3YnVSZM8LUw&sid=760f7a4c46859978#🇩🇪 Германия 3
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.65.60.61:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=%2F#🇬🇧 Великобритания
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.7.21:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 Франция
 
 socks://MnpYRFd2OmdlaFo0VA==@138.219.122.22:9050#🇨🇦 Канада
 
