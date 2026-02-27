@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/+jDBlUXutT9k3MGY6
 #profile-web-page-url: https://t.me/+jDBlUXutT9k3MGY6
-#announce: base64:0JXRgdC70Lgg0L/QtdGA0LXRgdGC0LDQu9C+INGA0LDQsdC+0YLQsNGC0Ywg0L3QsNC20LzQuNGC0LUgIu2gve20gyIuCtCh0LXRgNCy0LXRgNCwIDE1OjI4IDI3LjIuMjY=
+#announce: base64:0JXRgdC70Lgg0L/QtdGA0LXRgdGC0LDQu9C+INGA0LDQsdC+0YLQsNGC0Ywg0L3QsNC20LzQuNGC0LUgIuKGuyIuCtCh0LXRgNCy0LXRgNCwIDE1OjI4IDI3LjIuMjY=
 
 vless://0e8d47bb-86ce-4289-ae87-56019eb398bf@72.56.102.209:443?type=tcp&encryption=none&security=reality&pbk=te0ybXSTq9JN31Jnpi0MF0_CvO1vOKHIUbTrPFY9x2c&fp=chrome&sni=www.microsoft.com&sid=1ea5ea1bba&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды
 
@@ -20,5 +20,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.7.21:22224?type=ws&security=
 socks://MnpYRFd2OmdlaFo0VA==@138.219.122.22:9050#🇨🇦 Канада
 
 socks://Sm5zbXVuOlVXRmdHWA==@212.102.145.112:9817#🇪🇪 Эстония
+
 
 
