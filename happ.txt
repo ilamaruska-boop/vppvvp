@@ -15,6 +15,8 @@ vless://54ef6124-3a61-4a44-9901-78fadc6c59d9@144.31.17.116:443/?type=tcp&encrypt
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.65.60.61:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=%2F#🇬🇧 Великобритания
 
+vless://4bc7d558-1943-44de-bd82-56920bc9383e@144.31.234.62:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=freede.spectrum.vu&fp=chrome&security=reality&pbk=F4Cbv0swJucaDwQdOibmLHhynexUdaVf8CFvTFe81mc&sid=8b4c2d5a1e3f#🇺🇸 США
+
 socks://MnpYRFd2OmdlaFo0VA==@138.219.122.22:9050#🇨🇦 Канада
 
 socks://Sm5zbXVuOlVXRmdHWA==@212.102.145.112:9817#🇪🇪 Эстония
