@@ -1,6 +1,6 @@
 #profile-title: Free V3,14N
 #profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=1904331600
+#subscription-userinfo: upload=0; download=0; total=0; expire=2147483647
 #support-url: https://t.me/+jDBlUXutT9k3MGY6
 #profile-web-page-url: https://t.me/+jDBlUXutT9k3MGY6
 #announce: base64:0JXRgdC70Lgg0L/QtdGA0LXRgdGC0LDQu9C+INGA0LDQsdC+0YLQsNGC0Ywg0L3QsNC20LzQuNGC0LUgIuKGuyI=
