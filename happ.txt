@@ -24,4 +24,3 @@ vless://3117ae4b-0244-4e8f-ba49-518e9ba2e15c@72.56.102.209:443?type=tcp&encrypti
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.29.115.99:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪 Германия ❗
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.101.85:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 Франция ❗
-
