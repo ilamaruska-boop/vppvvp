@@ -11,7 +11,7 @@ vless://45b43bd8-dfb7-4b6f-8842-295e2754e74c@144.31.71.128:443?security=reality&
 
 ss://YWVzLTEyOC1nY206NDR0WjcxdThUaW9YcHVMZ2duM3FxZw==@144.31.71.128:1080#🇫🇮 Финляндия SS
 
-trojan://pYVR1UbplpyMiU766wFRvA@144.31.71.128:444?security=none&type=tcp&headerType=&path=&host=#🇫🇮 Финляндия TRJ
+trojan://pYVR1UbplpyMiU766wFRvA@144.31.71.128:444?security=none&type=tcp&headerType=&path=&host=#🇫🇮 Финляндия TJN
 
 vmess://eyJhZGQiOiAiMTQ0LjMxLjcxLjEyOCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJkY2M1MDM5Mi01MTNjLTRmNzAtOGI2My05ZDE2MGJmZTc3OTYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogNDQ1LCAicHMiOiAiXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MDQyNFx1MDQzOFx1MDQzZFx1MDQzYlx1MDQ0Zlx1MDQzZFx1MDQzNFx1MDQzOFx1MDQ0ZiIsICJzY3kiOiAiYXV0byIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
 
