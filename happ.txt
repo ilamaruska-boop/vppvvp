@@ -3,14 +3,24 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/+jDBlUXutT9k3MGY6
 #profile-web-page-url: https://t.me/+jDBlUXutT9k3MGY6
-#announce: base64:0JXRgdC70Lgg0L/QtdGA0LXRgdGC0LDQu9C+INGA0LDQsdC+0YLQsNGC0Ywg0L3QsNC20LzQuNGC0LUgIuKGuyI=
+#announce: base64:0KDQmtCdINC90LUg0L/RgNC10LPRgNCw0LTQsCwg0L/RgNC+0LHQuNCy0LDQtdC8INGE0LDQtdGA0LLQvtC7IQrQldGB0LvQuCDQv9C10YDQtdGB0YLQsNC70L4g0YDQsNCx0L7RgtCw0YLRjCDQvdCw0LbQvNC40YLQtSAi4oa7Ig==
 
 vless://00000000-0000-0000-0000-000000000000@example.com:443#🇪🇺 ❌Авто 🔐 (скоро)❌
 
-vless://45b43bd8-dfb7-4b6f-8842-295e2754e74c@144.31.71.128:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=github.com&fp=chrome&pbk=oQT6JdLAXAZ6sOOxnI2aGzbzIAe-nb-fZWPp8aiP2Ds&sid=3e2130f44452bf2d#🇫🇮 Финляндия 🔐
+vless://45b43bd8-dfb7-4b6f-8842-295e2754e74c@144.31.71.128:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=github.com&fp=chrome&pbk=oQT6JdLAXAZ6sOOxnI2aGzbzIAe-nb-fZWPp8aiP2Ds&sid=3e2130f44452bf2d#🇫🇮 Финляндия 🔐 (рекомендуется)
+
+ss://YWVzLTEyOC1nY206NDR0WjcxdThUaW9YcHVMZ2duM3FxZw==@144.31.71.128:1080#🇫🇮 Финляндия
+
+vmess://eyJhZGQiOiAiMTQ0LjMxLjcxLjEyOCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJkY2M1MDM5Mi01MTNjLTRmNzAtOGI2My05ZDE2MGJmZTc3OTYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogNDQ1LCAicHMiOiAiXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MDQyNFx1MDQzOFx1MDQzZFx1MDQzYlx1MDQ0Zlx1MDQzZFx1MDQzNFx1MDQzOFx1MDQ0ZiIsICJzY3kiOiAiYXV0byIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+
+trojan://pYVR1UbplpyMiU766wFRvA@144.31.71.128:444?security=none&type=tcp&headerType=&path=&host=#🇫🇮 Финляндия
 
 socks://MnpYRFd2OmdlaFo0VA==@138.219.122.22:9050#🇨🇦 Канада
 
 socks://Sm5zbXVuOlVXRmdHWA==@212.102.145.112:9817#🇪🇪 Эстония
 
-vless://3117ae4b-0244-4e8f-ba49-518e9ba2e15c@72.56.102.209:443?type=tcp&encryption=none&security=reality&pbk=te0ybXSTq9JN31Jnpi0MF0_CvO1vOKHIUbTrPFY9x2c&fp=chrome&sni=www.microsoft.com&sid=1ea5ea1bba&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды
+vless://3117ae4b-0244-4e8f-ba49-518e9ba2e15c@72.56.102.209:443?type=tcp&encryption=none&security=reality&pbk=te0ybXSTq9JN31Jnpi0MF0_CvO1vOKHIUbTrPFY9x2c&fp=chrome&sni=www.microsoft.com&sid=1ea5ea1bba&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды ❗
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.29.115.99:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪 Германия ❗
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.101.85:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 Франция ❗
