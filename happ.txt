@@ -12,4 +12,3 @@ vless://45b43bd8-dfb7-4b6f-8842-295e2754e74c@144.31.71.128:443?security=reality&
 socks://MnpYRFd2OmdlaFo0VA==@138.219.122.22:9050#🇨🇦 Канада 🛡️
 
 socks://Sm5zbXVuOlVXRmdHWA==@212.102.145.112:9817#🇪🇪 Эстония 🛡️
-
