@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/+jDBlUXutT9k3MGY6
 #profile-web-page-url: https://t.me/+jDBlUXutT9k3MGY6
-#announce: base64:0KDQmtCdINC90LUg0L/RgNC10LPRgNCw0LTQsCwg0L/RgNC+0LHQuNCy0LDQtdC8IERQSSEK0JXRgdC70Lgg0L/QtdGA0LXRgdGC0LDQu9C+INGA0LDQsdC+0YLQsNGC0Ywg0L3QsNC20LzQuNGC0LUgIuKGuyI=
+#announce: base64:0KDQmtCdINC90LUg0L/RgNC10LPRgNCw0LTQsCwg0L/RgNC+0LHQuNCy0LDQtdC8INCi0KHQn9CjINC4IERQSSEK0JXRgdC70Lgg0L/QtdGA0LXRgdGC0LDQu9C+INGA0LDQsdC+0YLQsNGC0Ywg0L3QsNC20LzQuNGC0LUgIuKGuyI=
 
 vless://45b43bd8-dfb7-4b6f-8842-295e2754e74c@144.31.71.128:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=github.com&fp=chrome&pbk=oQT6JdLAXAZ6sOOxnI2aGzbzIAe-nb-fZWPp8aiP2Ds&sid=3e2130f44452bf2d#🇪🇺 ❌Авто 🔐 (скоро)❌
 
