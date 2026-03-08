@@ -5,7 +5,7 @@
 #profile-web-page-url: https://t.me/+jDBlUXutT9k3MGY6
 #announce: base64:0KDQmtCdINC90LUg0L/RgNC10LPRgNCw0LTQsCwg0L/RgNC+0LHQuNCy0LDQtdC8INCi0KHQn9CjINC4IERQSSEK0JXRgdC70Lgg0L/QtdGA0LXRgdGC0LDQu9C+INGA0LDQsdC+0YLQsNGC0Ywg0L3QsNC20LzQuNGC0LUgIuKGuyI=
 
-vless://45b43bd8-dfb7-4b6f-8842-295e2754e74c@144.31.71.128:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=github.com&fp=chrome&pbk=oQT6JdLAXAZ6sOOxnI2aGzbzIAe-nb-fZWPp8aiP2Ds&sid=3e2130f44452bf2d#🇪🇺 ❌Авто 🔐 (скоро)❌
+vless://edffcfc0-9a92-499e-ae17-4a4f2798e5ff@103.213.249.90:56823?security=reality&pbk=m8vgIl1liKHywakfyx6isCaU5_x6mdy7NXFv5QuKaxQ&fp=chrome&type=xhttp&path=%2F&spx=%2F&sid=d7c8db21#🇪🇺 Авто 🔐 (рекомендуется)
 
 vless://45b43bd8-dfb7-4b6f-8842-295e2754e74c@144.31.71.128:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=github.com&fp=chrome&pbk=oQT6JdLAXAZ6sOOxnI2aGzbzIAe-nb-fZWPp8aiP2Ds&sid=3e2130f44452bf2d#🇫🇮 Финляндия 🔐 (рекомендуется)
 
