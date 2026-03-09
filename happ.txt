@@ -7,8 +7,6 @@
 
 vless://edffcfc0-9a92-499e-ae17-4a4f2798e5ff@103.213.249.90:56823?security=reality&pbk=m8vgIl1liKHywakfyx6isCaU5_x6mdy7NXFv5QuKaxQ&fp=chrome&type=xhttp&path=%2F&spx=%2F&sid=d7c8db21#🇪🇺 Авто 🔐 (рекомендуется)
 
-vless://45b43bd8-dfb7-4b6f-8842-295e2754e74c@144.31.71.128:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=github.com&fp=chrome&pbk=oQT6JdLAXAZ6sOOxnI2aGzbzIAe-nb-fZWPp8aiP2Ds&sid=#🇫🇮 Финляндия 🔐 (рекомендуется)
-
 socks://MnpYRFd2OmdlaFo0VA==@138.219.122.22:9050#🇨🇦 Канада
 
 socks://Sm5zbXVuOlVXRmdHWA==@212.102.145.112:9817#🇪🇪 Эстония
