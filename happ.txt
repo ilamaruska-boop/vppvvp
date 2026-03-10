@@ -8,9 +8,3 @@
 vless://ec179e98-0d29-4918-bb8c-07c6c5d97cc8@45.15.128.148:59175?security=reality&pbk=rFqd3docl5gnLn-ZKhJb1iqtYVg3dR-z3Nu9M4IlhAY&fp=chrome&type=xhttp&path=%2F&spx=%2F&sid=bfed111a#🇳🇱 Нидерланды 🔐 (рекомендуется)
 
 vless://3117ae4b-0244-4e8f-ba49-518e9ba2e15c@72.56.102.209:443?type=tcp&encryption=none&security=reality&pbk=te0ybXSTq9JN31Jnpi0MF0_CvO1vOKHIUbTrPFY9x2c&fp=chrome&sni=www.microsoft.com&sid=1ea5ea1bba&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды 2❗
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.124.201:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪 Германия ❗
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.127.171.45:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪 Германия 2❗
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.96.111:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 Франция ❗
