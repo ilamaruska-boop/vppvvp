@@ -5,9 +5,9 @@
 #profile-web-page-url: https://t.me/+jDBlUXutT9k3MGY6
 #announce: base64:0Jog0YHQvtC20LDQu9C10L3QuNGOLCDQvdCw0YjQtdC80YMg0YHQtdGA0LLQuNGB0YMg0YLRgNGD0LTQvdC+INGB0YPRidC10YHRgtCy0L7QstCw0YLRjCDQsdC10Lcg0YTQuNC90LDQvdGB0LjRgNC+0LLQsNC90LjRjyDQuCDQvNC+0L3QtdGC0LjQt9Cw0YbQuNC4LCDQtdGB0LvQuCDQvdC1INCx0YPQtNGD0YIg0L3QsNC50LTQtdC90Ysg0LTQtdC90LXQttC90YvQtSDRgNC10YHRg9GA0YHRiyDRgtC+INC80Ysg0LHRg9C00LXQvCDQv9GA0L7QtNC+0LvQttCw0YLRjCDRgdC90LjQttCw0YLRjCDQvtCx0L7RgNC+0YLRiy4o
 
-vless://9665115b-55cd-459e-82f3-7196af052a8c@157.22.241.136:43000?type=tcp&security=reality&pbk=tK2eStz8C-t5HG8O5NDNu24N4v7mG-FkJ4PWFm6mVnw&fp=chrome&sid=3e6d55ef&spx=%2F&flow=xtls-rprx-vision#🇪🇺 Авто 🔐 (рекомендуется)
+vless://ec179e98-0d29-4918-bb8c-07c6c5d97cc8@45.15.128.148:59175?security=reality&pbk=rFqd3docl5gnLn-ZKhJb1iqtYVg3dR-z3Nu9M4IlhAY&fp=chrome&type=xhttp&path=%2F&spx=%2F&sid=bfed111a#🇳🇱 Нидерланды 🔐 (рекомендуется)
 
-vless://3117ae4b-0244-4e8f-ba49-518e9ba2e15c@72.56.102.209:443?type=tcp&encryption=none&security=reality&pbk=te0ybXSTq9JN31Jnpi0MF0_CvO1vOKHIUbTrPFY9x2c&fp=chrome&sni=www.microsoft.com&sid=1ea5ea1bba&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды ❗
+vless://3117ae4b-0244-4e8f-ba49-518e9ba2e15c@72.56.102.209:443?type=tcp&encryption=none&security=reality&pbk=te0ybXSTq9JN31Jnpi0MF0_CvO1vOKHIUbTrPFY9x2c&fp=chrome&sni=www.microsoft.com&sid=1ea5ea1bba&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды 2❗
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.124.201:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪 Германия ❗
 
