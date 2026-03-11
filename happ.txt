@@ -1,4 +1,4 @@
-#profile-title: Free V3,14N @
+#profile-title: #FreeTG V3,14N @
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/+jDBlUXutT9k3MGY6
