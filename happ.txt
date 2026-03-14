@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/+jDBlUXutT9k3MGY6
 #profile-web-page-url: https://t.me/+jDBlUXutT9k3MGY6
-#announce: base64:0KDQmtCdINC90LUg0L/RgNC10LPRgNCw0LTQsCwg0L/RgNC+0LHQuNCy0LDQtdC8INCi0KHQn9CjINC4IERQSSEK0JXRgdC70Lgg0L/QtdGA0LXRgdGC0LDQu9C+INGA0LDQsdC+0YLQsNGC0Ywg0L3QsNC20LzQuNGC0LUgIuKGuyIK0J/QvtGB0LvQtdC00L3Rj9GPINC60L7QvdGE0LjQs9GD0YDQsNGG0LjRjyAxMjoxMSAxNC4zLjI2
+#announce: base64:0KDQmtCdINC90LUg0L/RgNC10LPRgNCw0LTQsCwg0L/RgNC+0LHQuNCy0LDQtdC8INCi0KHQn9CjINC4IERQSSEK0JXRgdC70Lgg0L/QtdGA0LXRgdGC0LDQu9C+INGA0LDQsdC+0YLQsNGC0Ywg0L3QsNC20LzQuNGC0LUgIuKGuyIK0J/QvtGB0LvQtdC00L3Rj9GPINC60L7QvdGE0LjQs9GD0YDQsNGG0LjRjyAxMjoxMyAxNC4zLjI2CtCR0JXQm9Cr0JUg0KHQn9CY0KHQmtCYISEh
 
 vless://ec179e98-0d29-4918-bb8c-07c6c5d97cc8@45.15.128.148:59175?security=reality&pbk=rFqd3docl5gnLn-ZKhJb1iqtYVg3dR-z3Nu9M4IlhAY&fp=chrome&type=xhttp&path=%2F&spx=%2F&sid=bfed111a#🇳🇱 Нидерланды 🔐 (рекомендуется)
 
@@ -13,4 +13,4 @@ vless://4ecbe800-b83a-4b83-8280-8c9cec97db4b@panel.peakkey.ru:8443?type=tcp&encr
 
 vless://dc84d6fd-ec3d-4ecc-a176-c14fc17e3e2c@det.jojack.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=det.jojack.ru&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&fp=qq&bx=%2F&sid=8dc4fccb2bcfc99d#🇩🇪 Германия❗
 
-vless://ab9a202a-d0b2-0bb8-95e5-d6f373a1ab35@5.188.142.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Финляндия❗
+vless://ab9a202a-d0b2-0bb8-95e5-d6f373a1ab35@5.188.142.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Финляндия LTE❗
