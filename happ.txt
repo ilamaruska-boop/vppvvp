@@ -5,8 +5,6 @@
 #profile-web-page-url: https://t.me/+jDBlUXutT9k3MGY6
 #announce: base64:0KDQmtCdINC90LUg0L/RgNC10LPRgNCw0LTQsCwg0L/RgNC+0LHQuNCy0LDQtdC8INCi0KHQn9CjINC4IERQSSEK0JXRgdC70Lgg0L/QtdGA0LXRgdGC0LDQu9C+INGA0LDQsdC+0YLQsNGC0Ywg0L3QsNC20LzQuNGC0LUgIuKGuyIK0J/QvtGB0LvQtdC00L3Rj9GPINC60L7QvdGE0LjQs9GD0YDQsNGG0LjRjyAxMjoxMyAxNC4zLjI2CkBmcmVldGdpbnRlcm5ldA==
 
-vless://ec179e98-0d29-4918-bb8c-07c6c5d97cc8@45.15.128.148:59175?security=reality&pbk=rFqd3docl5gnLn-ZKhJb1iqtYVg3dR-z3Nu9M4IlhAY&fp=chrome&type=xhttp&path=%2F&spx=%2F&sid=bfed111a#🇳🇱 Нидерланды 🔐 (рекомендуется)
-
 vless://3117ae4b-0244-4e8f-ba49-518e9ba2e15c@72.56.102.209:443?type=tcp&encryption=none&security=reality&pbk=te0ybXSTq9JN31Jnpi0MF0_CvO1vOKHIUbTrPFY9x2c&fp=chrome&sni=www.microsoft.com&sid=1ea5ea1bba&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды 2❗
 
 vless://4ecbe800-b83a-4b83-8280-8c9cec97db4b@panel.peakkey.ru:8443?type=tcp&encryption=none&security=reality&pbk=dbwOWiXMcFcGFKZORsdIDHEJ9A5VQBWKSxhL9cUuYl0&fp=chrome&sni=www.bing.com&sid=8b2e5393&spx=/bing#🇳🇱 Нидерланды 3❗
