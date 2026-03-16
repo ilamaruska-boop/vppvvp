@@ -3,12 +3,24 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/+jDBlUXutT9k3MGY6
 #profile-web-page-url: https://t.me/+jDBlUXutT9k3MGY6
-#announce: base64:0KDQmtCdINC90LUg0L/RgNC10LPRgNCw0LTQsCwg0L/RgNC+0LHQuNCy0LDQtdC8INCi0KHQn9CjINC4IERQSSEK0JXRgdC70Lgg0L/QtdGA0LXRgdGC0LDQu9C+INGA0LDQsdC+0YLQsNGC0Ywg0L3QsNC20LzQuNGC0LUgIuKGuyIK0J/QvtGB0LvQtdC00L3Rj9GPINC60L7QvdGE0LjQs9GD0YDQsNGG0LjRjyAxMjoxMyAxNC4zLjI2CkBmcmVldGdpbnRlcm5ldA==
+#announce: base64:0KDQmtCdINC90LUg0L/RgNC10LPRgNCw0LTQsCwg0L/RgNC+0LHQuNCy0LDQtdC8INCi0KHQn9CjINC4IERQSSEK0JXRgdC70Lgg0L/QtdGA0LXRgdGC0LDQu9C+INGA0LDQsdC+0YLQsNGC0Ywg0L3QsNC20LzQuNGC0LUgIuKGuyIK0J/QvtGB0LvQtdC00L3Rj9GPINC60L7QvdGE0LjQs9GD0YDQsNGG0LjRjyAxOTowOSAxNi4zLjI2CkBmcmVldGdpbnRlcm5ldA==
 
-vless://3117ae4b-0244-4e8f-ba49-518e9ba2e15c@72.56.102.209:443?type=tcp&encryption=none&security=reality&pbk=te0ybXSTq9JN31Jnpi0MF0_CvO1vOKHIUbTrPFY9x2c&fp=chrome&sni=www.microsoft.com&sid=1ea5ea1bba&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды ❗
+vless://4ecbe800-b83a-4b83-8280-8c9cec97db4b@panel.peakkey.ru:8443?type=tcp&encryption=none&security=reality&pbk=dbwOWiXMcFcGFKZORsdIDHEJ9A5VQBWKSxhL9cUuYl0&fp=chrome&sni=www.bing.com&sid=8b2e5393&spx=/bing#🇳🇱 Нидерланды❗
 
-vless://4ecbe800-b83a-4b83-8280-8c9cec97db4b@panel.peakkey.ru:8443?type=tcp&encryption=none&security=reality&pbk=dbwOWiXMcFcGFKZORsdIDHEJ9A5VQBWKSxhL9cUuYl0&fp=chrome&sni=www.bing.com&sid=8b2e5393&spx=/bing#🇳🇱 Нидерланды 2❗
+vless://997bc475-4621-4612-8337-cc55a0cb68ab@nlx2.fastdbn.com:443?security=reality&type=xhttp&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=deb.debian.org&fp=firefox&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&spx=%2F#🇳🇱 Нидерланды 2❗
 
-vless://dc84d6fd-ec3d-4ecc-a176-c14fc17e3e2c@det.jojack.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=det.jojack.ru&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&fp=qq&bx=%2F&sid=8dc4fccb2bcfc99d#🇩🇪 Германия❗
+vless://d38a36db-4fea-49a8-b6e7-adf2e605abc4@51.250.75.192:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#🇵🇱 Польша LTE❗
 
-vless://ab9a202a-d0b2-0bb8-95e5-d6f373a1ab35@5.188.142.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Финляндия LTE❗
+vless://242fb08a-8308-42af-91b7-a976a488b08d@51.250.75.192:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#🇵🇱 Польша 2 LTE❗
+
+vless://60048732-3a7e-4ddc-9c2d-0da74ea2afad@51.250.75.192:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=%2F#🇵🇱 Польша 3 LTE❗
+
+vless://d51f31b4-6e74-4a57-8ea0-a62830df3f45@87.120.216.186:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=a-1.api.plnt.su&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#🇩🇪 Германия❗
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@25.129.196.191:2096?encryption=none&security=tls&sni=sni.my111000.tech&type=ws&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🇩🇪 Германия 2❗
+
+vless://cadadce7-0daa-44c1-9f7a-05fe4ebcbb30@braskivo.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&security=reality&sid=f1071c148a5aefc4&sni=rbc.ru&type=tcp#🇺🇸 США❗
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.40.40:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 Франция❗
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.160.17:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 Франция 2❗
