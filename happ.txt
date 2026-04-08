@@ -4,7 +4,7 @@
 #support-url: https://t.me/+jDBlUXutT9k3MGY6
 #profile-web-page-url: https://t.me/+jDBlUXutT9k3MGY6
 #announce: base64:0KDQmtCdINC90LUg0L/RgNC10LPRgNCw0LTQsCwg0L/RgNC+0LHQuNCy0LDQtdC8INCi0KHQn9CjINC4IERQSSEK0JXRgdC70Lgg0L/QtdGA0LXRgdGC0LDQu9C+INGA0LDQsdC+0YLQsNGC0Ywg0L3QsNC20LzQuNGC0LUgIuKGuyIK0J/QvtGB0LvQtdC00L3Rj9GPINC30LDQs9GA0YPQttC10L3QvdCw0Y8g0LrQvtC90YTQuNCz0YPRgNCw0YbQuNGPOiAxMDoyNCAwOC4wNC4yNgrQodC/0L7QvdGB0L7RgNGLOiBTbGF2aWssIElsYQpCeSBAaWxhbWE4OA==
-vless://a8f8edb4-d1a6-41be-b89f-70b260202791@45.151.182.133:26940?security=reality&pbk=BTxpq1ZAnQQ4PaLjFlPOfA1O3br77UfDrRdEIH6jDEE&fp=chrome&type=xhttp&path=%2F&spx=%2F&sid=088307be&seed=4f78614cbe5552d3#🇪🇺 Авто 🔐
+vless://214a3c53-6923-4fa1-8e9c-a1c01df91dde@157.22.241.136:64581?security=reality&pbk=Lrs1Iq3TEEsr2h0NYqSY8auiFEU4UGngQfBb_9jo600&fp=chrome&type=xhttp&path=%2F&spx=%2F&sid=ea02a969&seed=2fe8360cf3047bc3#🇪🇺 Авто 🔐
 vless://6bf80b49-1153-4708-910f-16f40b0d66b6@144.31.247.81:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=github.com&fp=chrome&pbk=mRGnYXuKwzd81z7UDnYnDjL6P5nRMG2a6OlR5Y_TPy4&sid=481446c688f21090#🇳🇱 Нидерланды 🔐
 vless://21bb6086-52a9-4a37-8c38-83c0d4793c1a@185.221.155.40:443?type=tcp&security=reality&pbk=kfBkeYw3Ik9yX6eusqgG-6xD12ZcCIRvuExtg4FqMU4&fp=random&sni=yandex.ru&sid=4e46514d10590a&spx=/&flow=xtls-rprx-vision#🇳🇱 Нидерланды 2 ❗
 vless://07e638db-6f88-49f2-9391-a71459a98805@panel.peakkey.ru:2053?type=tcp&encryption=none&security=reality&pbk=kbhfvUD-74Ta6ejPiv0SQ8icZXlztfQ1S5d7MXrLYns&fp=chrome&sni=yandex.ru&sid=45b5&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды 3 ❗
