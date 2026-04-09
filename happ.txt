@@ -1,9 +1,9 @@
-#profile-title: #FreeTG V3,14N
+#profile-title: #FreeTG
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/+jDBlUXutT9k3MGY6
 #profile-web-page-url: https://t.me/+jDBlUXutT9k3MGY6
-#announce: base64:0KDQmtCdINC90LUg0L/RgNC10LPRgNCw0LTQsCwg0L/RgNC+0LHQuNCy0LDQtdC8INCi0KHQn9CjINC4IERQSSEK0J3QtSDQs9GA0YPQt9C40YI/INCd0LDQttC80Lg6ICLihrsiCtCS0KDQo9CR0JDQmdCi0JUg0J7QkdCl0J7QlCDQkdCV0JvQq9ClINCh0J/QmNCh0JrQntCSINCi0J7Qm9Cs0JrQniDQn9Cg0Jgg0J3Qo9CW0JTQlSEhIQrQmtC+0L3RhNC40LM6IDIzOjQwIDA4LjA0LjI2CtCh0L/QvtC90YHQvtGA0Ys6IFNsYXZpaywgSWxhCkJ5IEBpbGFtYTg4
+#announce: base64:0J3QtSDQs9GA0YPQt9C40YI/INCW0LzQuDogIuKGuyIK0KHQv9C+0L3RgdC+0YDRizogU2xhdmlrLCBJbGEKQnkgQGlsYW1hODg=
 vless://67cb3ba9-167b-418c-9d4d-2dbc83116e69@80.66.65.148:14823?security=reality&pbk=eQrTluYehgArl4dN0-YK6gwqeiCNbUHDVMsbxr0_Hh0&fp=chrome&type=xhttp&path=%2F&spx=%2F&sid=27a09e22&seed=3b944a1cc066954d#🇪🇺 Авто
 vless://21bb6086-52a9-4a37-8c38-83c0d4793c1a@185.221.155.40:443?type=tcp&security=reality&pbk=kfBkeYw3Ik9yX6eusqgG-6xD12ZcCIRvuExtg4FqMU4&fp=random&sni=yandex.ru&sid=4e46514d10590a&spx=/&flow=xtls-rprx-vision#🇳🇱 Нидерланды 1
 vless://2308857a-9527-4b57-88e2-9d889d5d1a0d@panel.peakkey.ru:2053?type=tcp&encryption=none&security=reality&pbk=kbhfvUD-74Ta6ejPiv0SQ8icZXlztfQ1S5d7MXrLYns&fp=chrome&sni=yandex.ru&sid=45b5&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды 2
