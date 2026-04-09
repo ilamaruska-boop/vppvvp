@@ -5,6 +5,5 @@
 #profile-web-page-url: https://t.me/+jDBlUXutT9k3MGY6
 #announce: base64:0J3QtSDQs9GA0YPQt9C40YI/INCW0LzQuDogIuKGuyIK0KHQv9C+0L3RgdC+0YDRizogU2xhdmlrLCBJbGEKQnkgQGlsYW1hODg=
 vless://67cb3ba9-167b-418c-9d4d-2dbc83116e69@80.66.65.148:14823?security=reality&pbk=eQrTluYehgArl4dN0-YK6gwqeiCNbUHDVMsbxr0_Hh0&fp=chrome&type=xhttp&path=%2F&spx=%2F&sid=27a09e22&seed=3b944a1cc066954d#🇪🇺 Авто
-vless://3edea710-196f-4eac-bf25-98623dc5a2cb@freetgvpn.duckdns.org:443?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=reality&pbk=1EQBahr1wi9PRV-z_3dTr7DnTD0utRb7DGCd7CauSgc&fp=chrome&sni=vk.com&sid=a25b623e27&spx=%2F#🇳🇱 Нидерланды 1
-vless://21bb6086-52a9-4a37-8c38-83c0d4793c1a@185.221.155.40:443?type=tcp&security=reality&pbk=kfBkeYw3Ik9yX6eusqgG-6xD12ZcCIRvuExtg4FqMU4&fp=random&sni=yandex.ru&sid=4e46514d10590a&spx=/&flow=xtls-rprx-vision#🇳🇱 Нидерланды 2
-vless://2308857a-9527-4b57-88e2-9d889d5d1a0d@panel.peakkey.ru:2053?type=tcp&encryption=none&security=reality&pbk=kbhfvUD-74Ta6ejPiv0SQ8icZXlztfQ1S5d7MXrLYns&fp=chrome&sni=yandex.ru&sid=45b5&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды 3
+vless://21bb6086-52a9-4a37-8c38-83c0d4793c1a@185.221.155.40:443?type=tcp&security=reality&pbk=kfBkeYw3Ik9yX6eusqgG-6xD12ZcCIRvuExtg4FqMU4&fp=random&sni=yandex.ru&sid=4e46514d10590a&spx=/&flow=xtls-rprx-vision#🇳🇱 Нидерланды 1
+vless://2308857a-9527-4b57-88e2-9d889d5d1a0d@panel.peakkey.ru:2053?type=tcp&encryption=none&security=reality&pbk=kbhfvUD-74Ta6ejPiv0SQ8icZXlztfQ1S5d7MXrLYns&fp=chrome&sni=yandex.ru&sid=45b5&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды 2
