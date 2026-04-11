@@ -5,3 +5,7 @@
 #profile-web-page-url: https://t.me/+jDBlUXutT9k3MGY6
 #announce: base64:0J3QtSDQs9GA0YPQt9C40YI/INCW0LzQuDogIuKGuyIK0KHQv9C+0L3RgdC+0YDRizogU2xhdmlrLCBJbGEKQnkgQGlsYW1hODg=
 vless://67cb3ba9-167b-418c-9d4d-2dbc83116e69@80.66.65.148:14823?security=reality&pbk=eQrTluYehgArl4dN0-YK6gwqeiCNbUHDVMsbxr0_Hh0&fp=chrome&type=xhttp&path=%2F&spx=%2F&sid=27a09e22&seed=3b944a1cc066954d#🇪🇺 Авто
+vless://beacc301-0325-4e97-938f-72160f2643c7@93.77.179.11:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.tesla.com&pbk=XU5l8xkBsyizFzVIFqIE9pDIj2P8_u6mxqQGbidacQk&sid=fc8470&spx=/#🇷🇺 Обход белых списков
+vless://beacc301-0325-4e97-938f-72160f2643c7@lte.krevetkavpn6666.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.tesla.com&pbk=XU5l8xkBsyizFzVIFqIE9pDIj2P8_u6mxqQGbidacQk&sid=fc8470&spx=/#🇷🇺 Обход белых списков
+vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@158.160.255.47:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Обход белых списков
+vless://31d8d734-6225-467f-ac86-6766f3f7c398@93.77.179.11:1443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.sony.com&pbk=MVRNPCHMN7_U6X2c6AbxG52t_PFOaU09H3wdcDjqGUY&sid=833fda1e&spx=/#🇷🇺 Обход белых списков
