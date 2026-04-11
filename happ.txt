@@ -5,5 +5,5 @@
 #profile-web-page-url: https://t.me/+jDBlUXutT9k3MGY6
 #announce: base64:0J3QtSDQs9GA0YPQt9C40YI/INCW0LzQuDogIuKGuyIK0KHQv9C+0L3RgdC+0YDRizogU2xhdmlrLCBJbGEKQnkgQGlsYW1hODg=
 vless://67cb3ba9-167b-418c-9d4d-2dbc83116e69@80.66.65.148:14823?security=reality&pbk=eQrTluYehgArl4dN0-YK6gwqeiCNbUHDVMsbxr0_Hh0&fp=chrome&type=xhttp&path=%2F&spx=%2F&sid=27a09e22&seed=3b944a1cc066954d#🇪🇺 Авто
-vless://f8b269b8-e1e9-452d-b375-cf1d89913bd1@212.233.98.145:5443?flow=&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=SJwCg-2RraxdmPp82iqmwV0cY7bpnimExCU02eZck1k&sid=1d025360f2d2be56#🇷🇺 Обход белых списков
-vless://496035d5-b0e2-4317-8bef-bf548012a5bd@51.250.46.190:443?type=xhttp&host=5post-gate.x5.ru&path=/api/v1/sync&mode=auto&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=qQ4l40OckukEo2OoCTIpLrxBHKRa277XXhUAf3SYEhM&sid=1a#🇷🇺 Обход белых списков
+vless://f8b269b8-e1e9-452d-b375-cf1d89913bd1@212.233.98.145:5443?flow=&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=SJwCg-2RraxdmPp82iqmwV0cY7bpnimExCU02eZck1k&sid=1d025360f2d2be56#🇷🇺 Обход белых списков 1
+vless://496035d5-b0e2-4317-8bef-bf548012a5bd@51.250.46.190:443?type=xhttp&host=5post-gate.x5.ru&path=/api/v1/sync&mode=auto&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=qQ4l40OckukEo2OoCTIpLrxBHKRa277XXhUAf3SYEhM&sid=1a#🇷🇺 Обход белых списков 2
