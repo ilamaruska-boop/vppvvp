@@ -3,6 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/+jDBlUXutT9k3MGY6
 #profile-web-page-url: https://t.me/+jDBlUXutT9k3MGY6
-#announce: base64:0JIg0YHQutC+0YDQvtC8INCy0YDQtdC80LXQvdC4INGB0LXRgNCy0LjRgSDQv9GA0LjQvtGB0YLQsNC90L7QstC40YIg0YHQstC+0Y4g0LTQtdGP0YLQtdC70YzQvdC+0YHRgtGMLgrQndC1INCz0YDRg9C30LjRgj8g0JbQvNC4OiAi4oa7IgrQodC/0L7QvdGB0L7RgNGLOiBTbGF2aWssIElsYQpCeSBAaWxhbWE4OA==
+#announce: base640JIg0YHQutC+0YDQvtC8INCy0YDQtdC80LXQvdC4INGB0LXRgNCy0LjRgSDQv9GA0LjQvtGB0YLQsNC90L7QstC40YIg0YHQstC+0Y4g0LTQtdGP0YLQtdC70YzQvdC+0YHRgtGMLArQvdCw0LnQtNC40YLQtSDQsNC70YLQtdGA0L3QsNGC0LjQvdGL0LkgVlBOICDRgdC10YDQstC40YEhISEK0J3QtSDQs9GA0YPQt9C40YI/INCW0LzQuDogIuKGuyIK0KHQv9C+0L3RgdC+0YDRizogU2xhdmlrLCBJbGEKQnkgQGlsYW1hODg=
 vless://67cb3ba9-167b-418c-9d4d-2dbc83116e69@80.66.65.148:14823?security=reality&pbk=eQrTluYehgArl4dN0-YK6gwqeiCNbUHDVMsbxr0_Hh0&fp=chrome&type=xhttp&path=%2F&spx=%2F&sid=27a09e22&seed=3b944a1cc066954d#🇪🇺 Авто 1 (рекомендуется)
 vless://67cb3ba9-167b-418c-9d4d-2dbc83116e69@80.66.65.148:14823?security=reality&pbk=eQrTluYehgArl4dN0-YK6gwqeiCNbUHDVMsbxr0_Hh0&fp=chrome&type=xhttp&path=%2F&spx=%2F&sid=27a09e22&seed=3b944a1cc066954d#🇪🇺 Авто 2
