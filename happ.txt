@@ -4,6 +4,7 @@
 #support-url: https://t.me/+jDBlUXutT9k3MGY6
 #profile-web-page-url: https://t.me/+jDBlUXutT9k3MGY6
 #announce: base64:0J3QtSDQs9GA0YPQt9C40YI/INCW0LzQuDogIuKGuyIK0KHQv9C+0L3RgdC+0YDRizogU2xhdmlrLCBJbGEKQnkgQGlsYW1hODg=
-vless://67cb3ba9-167b-418c-9d4d-2dbc83116e69@80.66.65.148:14823?security=reality&pbk=eQrTluYehgArl4dN0-YK6gwqeiCNbUHDVMsbxr0_Hh0&fp=chrome&type=xhttp&path=%2F&spx=%2F&sid=27a09e22&seed=3b944a1cc066954d#🇪🇺 Авто (рекомендуется)
+vless://67cb3ba9-167b-418c-9d4d-2dbc83116e69@80.66.65.148:14823?security=reality&pbk=eQrTluYehgArl4dN0-YK6gwqeiCNbUHDVMsbxr0_Hh0&fp=chrome&type=xhttp&path=%2F&spx=%2F&sid=27a09e22&seed=3b944a1cc066954d#🇪🇺 Авто 1 (рекомендуется)
+vless://67cb3ba9-167b-418c-9d4d-2dbc83116e69@80.66.65.148:14823?security=reality&pbk=eQrTluYehgArl4dN0-YK6gwqeiCNbUHDVMsbxr0_Hh0&fp=chrome&type=xhttp&path=%2F&spx=%2F&sid=27a09e22&seed=3b944a1cc066954d#🇪🇺 Авто 2
 vless://890a9624-b169-427f-bc72-e36206b8cc4e@panel.peakkey.ru:2053?type=tcp&encryption=none&security=reality&pbk=kbhfvUD-74Ta6ejPiv0SQ8icZXlztfQ1S5d7MXrLYns&fp=chrome&sni=yandex.ru&sid=45b5&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды 1
 vless://6e6a7ffc-869a-4da5-855e-fa8ad876510b@91.84.122.13:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=tradingview.com&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6#🇳🇱 Нидерланды 2
