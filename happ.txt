@@ -1,5 +1,5 @@
 #profile-title: #FreeTG
 #profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=0; expire=1776200400
+#subscription-userinfo: expire=1776200400
 #announce: base64:0JIg0KHQmtCe0KDQntCcINCS0KDQldCc0JXQndCYINCh0JXQoNCS0JjQoSDQn9Cg0JjQntCh0KLQkNCd0J7QktCY0KIg0KHQktCe0K4g0JTQldCv0KLQldCb0KzQndCe0KHQotCs4pqgCtCh0L/QvtC90YHQvtGA0Ys6IFNsYXZpaywgSWxhCtCSINCh0JrQntCg0J7QnCDQktCg0JXQnNCV0J3QmCDQodCV0KDQktCY0KEg0J/QoNCY0J7QodCi0JDQndCe0JLQmNCiINCh0JLQntCuINCU0JXQr9Ci0JXQm9Cs0J3QntCh0KLQrOKaoA==
 vless://67cb3ba9-167b-418c-9d4d-2dbc83116e69@80.66.65.148:14823?security=reality&pbk=eQrTluYehgArl4dN0-YK6gwqeiCNbUHDVMsbxr0_Hh0&fp=chrome&type=xhttp&path=%2F&spx=%2F&sid=27a09e22&seed=3b944a1cc066954d#🇪🇺 Авто
