@@ -1,5 +1,7 @@
 #profile-title: #FreeTG
 #profile-update-interval: 1
 #subscription-userinfo: expire=1776200400
-#announce: base64:0JIg0KHQmtCe0KDQntCcINCS0KDQldCc0JXQndCYINCh0JXQoNCS0JjQoSDQn9Cg0JjQntCh0KLQkNCd0J7QktCY0KIg0KHQktCe0K4g0JTQldCv0KLQldCb0KzQndCe0KHQotCs4pqgCtCh0L/QvtC90YHQvtGA0Ys6IFNsYXZpaywgSWxhCtCSINCh0JrQntCg0J7QnCDQktCg0JXQnNCV0J3QmCDQodCV0KDQktCY0KEg0J/QoNCY0J7QodCi0JDQndCe0JLQmNCiINCh0JLQntCuINCU0JXQr9Ci0JXQm9Cs0J3QntCh0KLQrOKaoA==
+#announce: base64:0JIg0KHQmtCe0KDQntCcINCS0KDQldCc0JXQndCYINCh0JXQoNCS0JjQoSDQn9Cg0JjQntCh0KLQkNCd0J7QktCY0KIg0KHQktCe0K4g0JTQldCv0KLQldCb0KzQndCe0KHQotCs4pqgCtCh0L/QvtC90YHQvtGA0Ys6IFNsYXZpaywgSWxh
 vless://67cb3ba9-167b-418c-9d4d-2dbc83116e69@80.66.65.148:14823?security=reality&pbk=eQrTluYehgArl4dN0-YK6gwqeiCNbUHDVMsbxr0_Hh0&fp=chrome&type=xhttp&path=%2F&spx=%2F&sid=27a09e22&seed=3b944a1cc066954d#🇪🇺 Авто
+vless://51842c90-65c8-40ae-b69c-1a8c06d658bd@fr-d.duckray.co.uk:3443?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=chrome&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#🇫🇷 Франция
+vless://705b4180-5b7c-429f-a482-ecdb0214c89e@151.243.109.219:443/?type=tcp&security=reality&sni=www.yandex.ru&fp=chrome&pbk=zUolm8wMA__xpJfIVl4Pc48ubwVOnzvF0z8mk3w6ZWc&sid=579a4917&flow=xtls-rprx-vision#🇳🇱 Нидерланды
