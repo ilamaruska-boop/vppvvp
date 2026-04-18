@@ -1,3 +1,2 @@
 #profile-title: #FreeTG
 #announce: base64:0KHQtdGA0LLQuNGBINC30LDQutGA0YvRgiDQuNC3INC30LAg0L7RgtGB0YPRgtGB0YLQstC40Y8g0YHQv9C+0L3RgdC+0YDQvtCyLg==
-vless://71eacd3d-1b34-40c6-a4e0-842e294afae7@fr-d.duckray.co.uk:5793?encryption=none&type=grpc&mode=gun&security=reality&sni=api.github.com&fp=chrome&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio#1
