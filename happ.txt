@@ -1,4 +1,5 @@
 #profile-title: #FreeTG
+profile-update-interval: 1
 #announce: base64:0KHQtdGA0LLQuNGBINC30LDQutGA0YvRgiDQuNC3INC30LAg0L7RgtGB0YPRgtGB0YLQstC40Y8g0YHQv9C+0L3RgdC+0YDQvtCyLg==
 
 socks5://user:password@0.0.0.0:1080#0
